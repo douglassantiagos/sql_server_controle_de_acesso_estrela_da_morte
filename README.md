@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 ## 💻 Projeto
 
-A criação do projeto foi para se basear na fictícia estrela da morte da série STAR WARS e estudar como modelar um banco de dados
+A criação do projeto é meramente didático, consiste de uma boa base para exploração de comandos na linguagem SQL desde simples até mesmo junções entre tabelas.
 
 O que foi estudado:
 
